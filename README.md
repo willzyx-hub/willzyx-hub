@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @willzyx-hub
+- 👋 Hi, I’m @willzyx-hub and my Real Name is Alexander William Liu
 - 👀 I’m interested in Android Stuff
 - 🌱 I’m currently learning Python & Linux
 - 💞️ I’m looking to collaborate on (im currently don't wanna collaborate with someone at this momment)
